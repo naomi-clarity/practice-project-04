@@ -22,4 +22,4 @@ jobs:
       - name: Build
         run: npm build
       - name: Confirm done
-        run: echo "Deploy complete"
+        run: echo "Deploy now complete"
